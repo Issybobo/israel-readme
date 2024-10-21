@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Israel Ogunsola
+# Fullstack Web3 Developer
 Hi, I'm Israel Ogunsola,<br><br>I am a passionate Full Stack Web3 developer with expertise in building web applications using React.js, Node.js, Express.js, and Mongo DB . My experience extends to Web3 development, specifically on Ethereum, where I work with technologies such as Solidity, Ethers.js, Hardhat and writing smart contract code. My passion lies in crafting innovative solutions and leveraging cutting-edge technologies to create seamless and robust web2 and web3 experiences.<br><br>
 
 
